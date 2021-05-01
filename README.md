@@ -1,5 +1,7 @@
 # Portfolio
 Data Science Portfolio
+:[](https://github.com/Trilytic/Portfolio/blob/main/images/DSCF6432%20(3)%20-%20BW.JPG)
+
 
 # Project 1: Data Science Project 1
 - x1
