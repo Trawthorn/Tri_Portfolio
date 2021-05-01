@@ -1,2 +1,2 @@
-# Tri_Portfolio
+# Portfolio
 Data Science Portfolio
